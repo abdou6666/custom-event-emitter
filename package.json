@@ -1,0 +1,23 @@
+{
+  "name": "custom-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdou6666/custom-event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdou6666/custom-event-emitter/issues"
+  },
+  "homepage": "https://github.com/abdou6666/custom-event-emitter#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
